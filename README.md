@@ -10,14 +10,6 @@ Projeto de loja virtual demonstrativa baseado na estrutura do ZIP TucanStore. O 
 - Carrinho salvo no `localStorage` do navegador.
 - Layout responsivo para celular, tablet e computador.
 
-## Passo a passo para executar
-1. Extraia o arquivo ZIP em uma pasta do computador.
-2. Abra a pasta `marketing-office-place` no Visual Studio Code.
-3. Confira se existem `index.html`, `style.css`, `script.js` e `README.md`.
-4. Abra o `index.html` no navegador. Recomendado: usar a extensão **Live Server** no VS Code e clicar em **Go Live**.
-5. Verifique o status “API conectada” na área de produtos. É necessário ter internet para consultar a API.
-6. Digite no campo de busca, selecione uma categoria ou altere a ordenação.
-7. Clique em “Adicionar ao carrinho”, abra o carrinho e teste a remoção e o total.
 
 ## Como a API funciona
 - A constante `API_URLS` em `script.js` guarda os endereços dos endpoints.
