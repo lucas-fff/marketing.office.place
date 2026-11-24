@@ -1,6 +1,5 @@
 # marketing.office.place — Gamer Store
 
-Projeto de loja virtual demonstrativa baseado na estrutura do ZIP TucanStore. O tema foi adaptado para produtos de tecnologia e público gamer, com visual escuro, verde neon e azul ciano.
 
 ## Funcionalidades
 - Catálogo carregado de forma dinâmica pela API pública DummyJSON.
